@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uttam-kumar-sahoo&show_icons=true&locale=en" alt="uttam-kumar-sahoo" /></p><br><p>
+
 <!--
 **uttam-kumar-sahoo/uttam-kumar-sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
