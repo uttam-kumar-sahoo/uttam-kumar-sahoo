@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uttam-kumar-sahoo&show_icons=true&locale=en" alt="uttam-kumar-sahoo" /></p><br><p>
-  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-kumar-sahoo&langs_count=5&theme=tokyonight)]()
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-kumar-sahoo&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10">   
 <!--
 **uttam-kumar-sahoo/uttam-kumar-sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
