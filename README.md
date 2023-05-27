@@ -96,5 +96,8 @@
   <a href="https://www.hackerrank.com/Uttamsahoo9632?hr_r=1" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </div>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Futtam-kumar-sahoo&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Futtam-kumar-sahoo&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
+
 
 
