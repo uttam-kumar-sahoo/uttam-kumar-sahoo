@@ -31,9 +31,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- ☁️ I've keen interest in being a Data Scientist. So,I'm learning **Pand, Numpy**
+- ☁️ I've keen interest in being a Data Scientist. So,I'm learning **Pandas, Numpy**
 
-- 💬 Ask me about **Python, Java, Sql, Panda, Numpy**
+- 💬 Ask me about **Python, Java, Sql, Pandas, Numpy**
 
 - 📫 Feel free to reach me out **uttamkr.sahoo@gmail.com**
 
