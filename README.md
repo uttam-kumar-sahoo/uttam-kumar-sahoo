@@ -1,4 +1,4 @@
-#  Hello  there! I'm Uttam Kumar Sahoo 👋🚀💻 
+#  Hello  there! I'm Uttam Kumar Sahoo 👋
 
 ### **Data Analyst | Skilled in Python, SQL, Power BI & Tableau**  
 **Expertise in Predictive Modeling, Machine Learning, & Data Visualization**  
@@ -8,18 +8,18 @@
 
 
 <!--Intro start-->
-## 🚀 **About Me**  
+## **About Me**  
 
-👀 **Interests:**  
+ **Interests:**  
 I'm deeply interested in data analytics, business intelligence, and data-driven decision-making. I enjoy turning raw data into meaningful insights that can drive performance and strategy.
 
-🌱 **Currently Learning:**  
+ **Currently Learning:**  
 I’m expanding my skill set in SQL, Python for data analysis, data visualization (Tableau, Power BI), and statistical modeling to solve real-world problems more effectively.lable models**.  
 
-💞️ **Looking to Collaborate On:**  
+ **Looking to Collaborate On:**  
 Open to collaborating on data analytics projects involving data wrangling, trend analysis, dashboards, or automated reporting—especially those that help businesses make smarter decisions.
 
-⚡ **Fun Fact:**  
+ **Fun Fact:**  
 I believe that behind every great business decision is a great dataset, and I’m passionate about finding the story that data wants to tell!
 
 <!--Intro end-->
