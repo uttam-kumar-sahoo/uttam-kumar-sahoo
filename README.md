@@ -14,7 +14,7 @@
 I'm deeply interested in data analytics, business intelligence, and data-driven decision-making. I enjoy turning raw data into meaningful insights that can drive performance and strategy.
 
  **Currently Learning:**  
-I’m expanding my skill set in SQL, Python for data analysis, data visualization (Tableau, Power BI), and statistical modeling to solve real-world problems more effectively.lable models.  
+I’m expanding my skill set in SQL, Python for data analysis, data visualization (Tableau, Power BI), and statistical modeling to solve real-world problems more effectively.  
 
  **Looking to Collaborate On:**  
 Open to collaborating on data analytics projects involving data wrangling, trend analysis, dashboards, or automated reporting especially those that help businesses make smarter decisions.
