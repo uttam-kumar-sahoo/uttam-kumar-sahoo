@@ -8,7 +8,7 @@
 
 
 <!--Intro start-->
-## **About Me**  
+## **About Me⚡ **  
 
  **Interests:**  
 I'm deeply interested in data analytics, business intelligence, and data-driven decision-making. I enjoy turning raw data into meaningful insights that can drive performance and strategy.
