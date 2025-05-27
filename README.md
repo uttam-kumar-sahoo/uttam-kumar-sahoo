@@ -9,9 +9,9 @@
 </div>
 
 <ul align="left">
-  <summary>Data Analyst | Skilled in Python, SQL, Power BI & Tableau
+Data Analyst | Skilled in Python, SQL, Power BI & Tableau
 Expertise in Predictive Modeling, Machine Learning, & Data Visualization
-Delivering Actionable Insights for Strategic Decision-Making</summary>
+Delivering Actionable Insights for Strategic Decision-Making
 </ul>
 
 <a href="https://linktr.ee/uttamkumarsahoo" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
