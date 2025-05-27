@@ -4,10 +4,15 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Hello  there! I'm Uttam Kumar Sahoo, the Code Captain, ready to sail through the vast seas of programming and conquer new horizons! 🚀💻
-</h1></summary>
+    <summary><h1 style="display: inline-block"> Hello  there! I'm Uttam Kumar Sahoo 👋🚀💻 </h1></summary>
   </ul>
 </div>
+
+<ul align="left">
+  <summary>Data Analyst | Skilled in Python, SQL, Power BI & Tableau
+Expertise in Predictive Modeling, Machine Learning, & Data Visualization
+Delivering Actionable Insights for Strategic Decision-Making</summary>
+</ul>
 
 <a href="https://linktr.ee/uttamkumarsahoo" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
